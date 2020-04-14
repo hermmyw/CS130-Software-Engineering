@@ -1,0 +1,4 @@
+indirect : yes
+node font size : 18
+edge font size : 18
+package font size : 14
